@@ -1,4 +1,4 @@
-from metodos import Metodos
+from sistema.metodos import Metodos
 
 metodos = Metodos()
 

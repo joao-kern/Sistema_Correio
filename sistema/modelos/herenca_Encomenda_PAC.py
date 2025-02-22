@@ -1,4 +1,4 @@
-from heranca_Encomenda import Encomenda
+from sistema.modelos.heranca_Encomenda import Encomenda
 
 class Encomenda_Pac(Encomenda):
     def __init__(self, num_encomenda, nome_remetente, nome_destinatario, destino, peso, altura, largura, comprimento, fragilidade):

@@ -1,5 +1,5 @@
 def main():
-    import sistema
+    import sistema.sistema as sistema
 
 if __name__ == '__main__':
     main()

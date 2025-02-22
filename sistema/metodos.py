@@ -1,8 +1,8 @@
 # metodos
 
-from herenca_Encomenda_PAC import Encomenda_Pac
-from heranca_Encomenda_Sedex import Encomenda_Sedex
-from heranca_Encomenda_SedexPlus import Encomenda_SedexPlus
+from sistema.modelos.herenca_Encomenda_PAC import Encomenda_Pac
+from sistema.modelos.heranca_Encomenda_Sedex import Encomenda_Sedex
+from sistema.modelos.heranca_Encomenda_SedexPlus import Encomenda_SedexPlus
 
 class Metodos:
     def __init__(self):
