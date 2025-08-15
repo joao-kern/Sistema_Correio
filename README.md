@@ -10,11 +10,15 @@ Um sistema de depósito e gerenciamento de correios desenvolvido em Python, apli
 
 O *Sistema_Correio* é um projeto que demonstra a aplicação de herança em Python para modelar um sistema de entrega de encomendas, com diferentes tipos como **Sedex**, **SedexPlus** e **PAC**. Útil como aprendizado e base para sistemas modulares de logística.
 
+---
+
 ## Funcionalidades
 
 - Modelagem orientada a objetos com classes base e classes especializadas.
 - Simulação de métodos específicos (peso, tipo de envio, cálculo de prazos ou custos).
 - Arquitetura escalável para suportar novos tipos de envio.
+
+---
 
 ## Estrutura do Projeto
 
@@ -40,7 +44,9 @@ Sistema_Correio/
 - **sistema.py** → Coordena o fluxo principal.
 - **main.py** → Ponto de entrada da aplicação.
 
-## 🛠 Requisitos
+---
+
+## Requisitos
 
 - Python **3.x**
 - Nenhuma dependência externa.
@@ -50,20 +56,24 @@ Sistema_Correio/
 ## Como Executar
 
 1. **Clone o repositório**
-   ```bash
-   git clone https://github.com/joao-kern/Sistema_Correio.git
-   ```
+```bash
+git clone https://github.com/joao-kern/Sistema_Correio.git
+```
 
 2. **Acesse o diretório**
-  ```bash
-  cd Sistema_Correio
-  ```
+```bash
+cd Sistema_Correio
+```
 
 3. **Execute o programa**
-  ```bash
-  python main.py
-  ```
+```bash
+python main.py
+```
+
+---
 
 ## Autor
 
 Desenvolvido por João Kern – GitHub Profile
+
+---
